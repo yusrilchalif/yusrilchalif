@@ -10,5 +10,5 @@
  📫 Reach out to me directly through my Email.
 <hr>
 <p>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusrilchalif&repo=github-readme-stats)](https://github.com/yusrilchalif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
