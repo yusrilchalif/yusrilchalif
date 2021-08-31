@@ -10,6 +10,6 @@
  📫 Reach out to me directly through my Email.
 <hr>
 <p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusrilchalif)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yusrilchalif&count_private=true&show_icons=true&theme=dark)](https://github.com/yusrilchalif/)
 
 
