@@ -8,4 +8,7 @@
  💬 Ask me about anything related to AR, VR and Game Development
   <p>
  📫 Reach out to me directly through my Email.
+<hr>
+<p>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusrilchalif&repo=github-readme-stats)](https://github.com/yusrilchalif/github-readme-stats)
 
