@@ -10,6 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for code review partner that related to my learning path.
 - 💬 Ask me about anything related to AR, VR and Game Development
 - 📫 Reach out to me directly through my Email.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
