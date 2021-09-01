@@ -10,5 +10,5 @@
  📫 Reach out to me directly through my Email.
 ##
 <p align="center">
-  <a href="https://blog.codemagic.io"><img src="https://github.com/sbis04/sbis04/raw/master/images/role_header_2.png" alt="Role" /></a>
+  <a href="https://www.souvikbiswas.com"><img src="https://github.com/sbis04/sbis04/raw/master/images/header_no_shadow.png" alt="Header" /></a>
 </p>
