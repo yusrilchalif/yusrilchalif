@@ -9,6 +9,4 @@
   <p>
  📫 Reach out to me directly through my Email.
 ##
-<p align="center">
-  <a href="https://www.souvikbiswas.com"><img src="https://github.com/sbis04/sbis04/raw/master/images/header_no_shadow.png" alt="Header" /></a>
-</p>
+
