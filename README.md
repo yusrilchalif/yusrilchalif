@@ -7,7 +7,6 @@
  <p>
  💬 Ask me about anything related to AR, VR and Game Development
   <p>
- 📫 Reach out to me directly through my Email. [Yusril Chalif Arrahman](mailto:yusrilchalif@gmail.com)
-
+ 📫 Reach out to me directly through my Email. [Yusril Chalif Arrahman](mailto:yusrilchalif@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
